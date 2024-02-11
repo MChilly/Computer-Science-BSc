@@ -1,2 +1,2 @@
-# Exercises-in-C
-Just keeping interesting exercises here while learning C
+# Computer Science BSc degree content
+This is a repo relevant to my academic career. It contains several exercises and helpful content.
